@@ -1,0 +1,9 @@
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/bin/Debug/Autofac.dll
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/bin/Debug/Autofac.Configuration.dll
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/bin/Debug/ImpromptuInterface.dll
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/bin/Debug/nunit.framework.dll
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/bin/Debug/SpecFlow.Assist.Dynamic.dll
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/bin/Debug/TechTalk.SpecFlow.dll
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/bin/Debug/WebDriver.dll
+/Volumes/AMZ/SpecFlow_Test/SpecFlow_framework/SpecFlow_framwork/bin/Debug/WebDriver.Support.dll
