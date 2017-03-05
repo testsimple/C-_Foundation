@@ -1,0 +1,17 @@
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\appium-dotnet-driver.dll
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\Castle.Core.dll
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.dll
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.dll
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.dll
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\appium-dotnet-driver.xml
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\Castle.Core.xml
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\nunit.framework.xml
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.xml
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Appium_test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
